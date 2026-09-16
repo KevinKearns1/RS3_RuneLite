@@ -1,0 +1,300 @@
+{
+ "grid": {
+  "cols": 8,
+  "rows": 5,
+  "cell": 40,
+  "x0": 24,
+  "y0": 70,
+  "scale": 1.0
+ },
+ "slots": [
+  {
+   "row": 0,
+   "col": 0,
+   "item_id": 1000,
+   "name": "Test item 00",
+   "icon_file": "test_item_00.png",
+   "quantity": 100,
+   "label": "100"
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "item_id": 1013,
+   "name": "Test item 13",
+   "icon_file": "test_item_13.png",
+   "quantity": 6,
+   "label": "6"
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "item_id": 1012,
+   "name": "Test item 12",
+   "icon_file": "test_item_12.png",
+   "quantity": 10,
+   "label": "10"
+  },
+  {
+   "row": 0,
+   "col": 3,
+   "item_id": 1009,
+   "name": "Test item 09",
+   "icon_file": "test_item_09.png",
+   "quantity": 4,
+   "label": "4"
+  },
+  {
+   "row": 0,
+   "col": 4,
+   "item_id": 1009,
+   "name": "Test item 09",
+   "icon_file": "test_item_09.png",
+   "quantity": 2,
+   "label": "2"
+  },
+  {
+   "row": 0,
+   "col": 6,
+   "item_id": 1014,
+   "name": "Test item 14",
+   "icon_file": "test_item_14.png",
+   "quantity": 7,
+   "label": "7"
+  },
+  {
+   "row": 0,
+   "col": 7,
+   "item_id": 1003,
+   "name": "Test item 03",
+   "icon_file": "test_item_03.png",
+   "quantity": 9,
+   "label": "9"
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "item_id": 1000,
+   "name": "Test item 00",
+   "icon_file": "test_item_00.png",
+   "quantity": 2000,
+   "label": "2000"
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "item_id": 1013,
+   "name": "Test item 13",
+   "icon_file": "test_item_13.png",
+   "quantity": 3000000,
+   "label": "3000K"
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "item_id": 1014,
+   "name": "Test item 14",
+   "icon_file": "test_item_14.png",
+   "quantity": 40000,
+   "label": "40000"
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "item_id": 1013,
+   "name": "Test item 13",
+   "icon_file": "test_item_13.png",
+   "quantity": 20000,
+   "label": "20000"
+  },
+  {
+   "row": 1,
+   "col": 5,
+   "item_id": 1015,
+   "name": "Test item 15",
+   "icon_file": "test_item_15.png",
+   "quantity": 80,
+   "label": "80"
+  },
+  {
+   "row": 1,
+   "col": 6,
+   "item_id": 1009,
+   "name": "Test item 09",
+   "icon_file": "test_item_09.png",
+   "quantity": 6000000,
+   "label": "6000K"
+  },
+  {
+   "row": 1,
+   "col": 7,
+   "item_id": 1010,
+   "name": "Test item 10",
+   "icon_file": "test_item_10.png",
+   "quantity": 50,
+   "label": "50"
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "item_id": 1001,
+   "name": "Test item 01",
+   "icon_file": "test_item_01.png",
+   "quantity": 40000,
+   "label": "40000"
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "item_id": 1005,
+   "name": "Test item 05",
+   "icon_file": "test_item_05.png",
+   "quantity": 8000,
+   "label": "8000"
+  },
+  {
+   "row": 2,
+   "col": 3,
+   "item_id": 1005,
+   "name": "Test item 05",
+   "icon_file": "test_item_05.png",
+   "quantity": 2000,
+   "label": "2000"
+  },
+  {
+   "row": 2,
+   "col": 4,
+   "item_id": 1009,
+   "name": "Test item 09",
+   "icon_file": "test_item_09.png",
+   "quantity": 60,
+   "label": "60"
+  },
+  {
+   "row": 2,
+   "col": 5,
+   "item_id": 1011,
+   "name": "Test item 11",
+   "icon_file": "test_item_11.png",
+   "quantity": 100,
+   "label": "100"
+  },
+  {
+   "row": 2,
+   "col": 7,
+   "item_id": 1013,
+   "name": "Test item 13",
+   "icon_file": "test_item_13.png",
+   "quantity": 6000,
+   "label": "6000"
+  },
+  {
+   "row": 3,
+   "col": 0,
+   "item_id": 1007,
+   "name": "Test item 07",
+   "icon_file": "test_item_07.png",
+   "quantity": 8000,
+   "label": "8000"
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "item_id": 1010,
+   "name": "Test item 10",
+   "icon_file": "test_item_10.png",
+   "quantity": 2,
+   "label": "2"
+  },
+  {
+   "row": 3,
+   "col": 3,
+   "item_id": 1017,
+   "name": "Test item 17",
+   "icon_file": "test_item_17.png",
+   "quantity": 1,
+   "label": "1"
+  },
+  {
+   "row": 3,
+   "col": 4,
+   "item_id": 1005,
+   "name": "Test item 05",
+   "icon_file": "test_item_05.png",
+   "quantity": 80000,
+   "label": "80000"
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "item_id": 1008,
+   "name": "Test item 08",
+   "icon_file": "test_item_08.png",
+   "quantity": 60000,
+   "label": "60000"
+  },
+  {
+   "row": 3,
+   "col": 6,
+   "item_id": 1010,
+   "name": "Test item 10",
+   "icon_file": "test_item_10.png",
+   "quantity": 30,
+   "label": "30"
+  },
+  {
+   "row": 3,
+   "col": 7,
+   "item_id": 1011,
+   "name": "Test item 11",
+   "icon_file": "test_item_11.png",
+   "quantity": 4,
+   "label": "4"
+  },
+  {
+   "row": 4,
+   "col": 0,
+   "item_id": 1000,
+   "name": "Test item 00",
+   "icon_file": "test_item_00.png",
+   "quantity": 40000,
+   "label": "40000"
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "item_id": 1011,
+   "name": "Test item 11",
+   "icon_file": "test_item_11.png",
+   "quantity": 3,
+   "label": "3"
+  },
+  {
+   "row": 4,
+   "col": 2,
+   "item_id": 1013,
+   "name": "Test item 13",
+   "icon_file": "test_item_13.png",
+   "quantity": 30,
+   "label": "30"
+  },
+  {
+   "row": 4,
+   "col": 5,
+   "item_id": 1009,
+   "name": "Test item 09",
+   "icon_file": "test_item_09.png",
+   "quantity": 70,
+   "label": "70"
+  },
+  {
+   "row": 4,
+   "col": 7,
+   "item_id": 1001,
+   "name": "Test item 01",
+   "icon_file": "test_item_01.png",
+   "quantity": 40,
+   "label": "40"
+  }
+ ]
+}
