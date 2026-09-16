@@ -1,0 +1,9 @@
+mss>=9.0
+pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9
+pytesseract>=0.3.10
+requests>=2.31
+PyQt6>=6.6
+pynput>=1.7
+pytest>=8.0

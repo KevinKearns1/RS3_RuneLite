@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rs3-bank-overlay"
+version = "0.6.0"
+description = "Passive, read-only screen-reading overlay that values a RuneScape 3 bank at Grand Exchange prices."
+requires-python = ">=3.11"
+dependencies = [
+    "mss>=9.0",
+    "pillow>=10.0",
+    "numpy>=1.26",
+    "opencv-python-headless>=4.9",
+    "pytesseract>=0.3.10",
+    "requests>=2.31",
+    "PyQt6>=6.6",
+    "pynput>=1.7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+windows = ["pywin32>=306"]
+
+[project.scripts]
+rs3overlay = "rs3overlay.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
