@@ -1,0 +1,98 @@
+{
+ "similar_herb_0a.png": {
+  "item_id": 1020,
+  "name": "Similar herb 0a"
+ },
+ "similar_herb_0b.png": {
+  "item_id": 1021,
+  "name": "Similar herb 0b"
+ },
+ "similar_herb_1a.png": {
+  "item_id": 1022,
+  "name": "Similar herb 1a"
+ },
+ "similar_herb_1b.png": {
+  "item_id": 1023,
+  "name": "Similar herb 1b"
+ },
+ "test_item_00.png": {
+  "item_id": 1000,
+  "name": "Test item 00"
+ },
+ "test_item_01.png": {
+  "item_id": 1001,
+  "name": "Test item 01"
+ },
+ "test_item_02.png": {
+  "item_id": 1002,
+  "name": "Test item 02"
+ },
+ "test_item_03.png": {
+  "item_id": 1003,
+  "name": "Test item 03"
+ },
+ "test_item_04.png": {
+  "item_id": 1004,
+  "name": "Test item 04"
+ },
+ "test_item_05.png": {
+  "item_id": 1005,
+  "name": "Test item 05"
+ },
+ "test_item_06.png": {
+  "item_id": 1006,
+  "name": "Test item 06"
+ },
+ "test_item_07.png": {
+  "item_id": 1007,
+  "name": "Test item 07"
+ },
+ "test_item_08.png": {
+  "item_id": 1008,
+  "name": "Test item 08"
+ },
+ "test_item_09.png": {
+  "item_id": 1009,
+  "name": "Test item 09"
+ },
+ "test_item_10.png": {
+  "item_id": 1010,
+  "name": "Test item 10"
+ },
+ "test_item_11.png": {
+  "item_id": 1011,
+  "name": "Test item 11"
+ },
+ "test_item_12.png": {
+  "item_id": 1012,
+  "name": "Test item 12"
+ },
+ "test_item_13.png": {
+  "item_id": 1013,
+  "name": "Test item 13"
+ },
+ "test_item_14.png": {
+  "item_id": 1014,
+  "name": "Test item 14"
+ },
+ "test_item_15.png": {
+  "item_id": 1015,
+  "name": "Test item 15"
+ },
+ "test_item_16.png": {
+  "item_id": 1016,
+  "name": "Test item 16"
+ },
+ "test_item_17.png": {
+  "item_id": 1017,
+  "name": "Test item 17"
+ },
+ "test_item_18.png": {
+  "item_id": 1018,
+  "name": "Test item 18"
+ },
+ "test_item_19.png": {
+  "item_id": 1019,
+  "name": "Test item 19"
+ }
+}
